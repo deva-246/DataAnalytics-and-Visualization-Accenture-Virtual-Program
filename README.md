@@ -1,7 +1,7 @@
 # DataAnalytics-and-Visualization-Accenture-Virtual-Program
 
 -- The program is powered by Forage which gives an oppurtunity to experience a 
-real time work experience in Accenture in the field of data science --
+real time work experience at Accenture in the field of data science --
 
 This Data analytics and visualization task involves tasks like
 1. Project understanding
